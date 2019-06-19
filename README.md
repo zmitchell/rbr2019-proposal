@@ -3,4 +3,4 @@ I've only given a lightning talk before, so I've never had to come up with a tal
 
 Hopefully someone finds this educational!
 
-- Zach
+P.S. - If you have questions, open an issue and I'll get back to you!
