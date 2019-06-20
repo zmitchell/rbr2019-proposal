@@ -23,7 +23,9 @@ Test Smarter, Not Harder - Alternative Testing Methodologies
 - You have considered a bunch of edge cases, but to address them you've had to either write one big test or duplicate your test code for each case.
 
 ### Solution
-Use a testing methodology that's a force multiplier.
+- Use a testing methodology that's a force multiplier.
+- A property test will randomly generate inputs to explore your code in ways you wouldn't have thought to.
+- Metamorphic testing lets you explore your code without needing to find general properties.
 
 ## Notes for reviewers (additional info about what you might cover)
 
