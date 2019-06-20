@@ -1,0 +1,28 @@
+- Pay attention to the proposal requirements, especially requests to exclude personally identifiable information.
+- Create a scene that the attendee can visualize.
+    - What will the attendee learn?
+    - Is it something they can relate to?
+    - Is it a talk that you would want to attend?
+    - Do you share a common pain point with the audience?
+- In the abstract focus on takeaways, but leave some questions unanswered so that there is a reason to see the talk.
+- A survey probably isn't as interesting as a deep-dive.
+- A talk should answer "how", "why", "when", etc. You can even ask these questions directly in the abstract so that the reader is left wondering.
+- Two paragraphs (or the limit imposed by the conference organizers) is a good limit for the abstract.
+- If you're introducing a cool new technology, make sure you illustrate how it can be used right now.
+- Can you explain to an attendee how they can do something unexpected?
+- Try to convey to the reviewer that you've put thought into the proposal.
+    - Is it evident that **you** know who your audience?
+    - Is it evident that you've planned how to effectively package up the information you want to convey?
+- Don't preach to the choir. That's what r/programmerhumour is for.
+- Have a process
+    - Sketch out your high level ideas. Spelling and grammar can take a back seat here.
+    - Distil the high level ideas into topics.
+        - Pain point
+        - Solution
+        - Supporting evidence
+        - Something personable or funny
+    - Put together a first draft
+    - Get feedback
+    - Incorporate feedback, be ruthless towards your own writing
+    - Submit the proposal
+- Put your personality into the presentation
