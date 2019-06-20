@@ -8,6 +8,8 @@ The following sections are taken straight from the proposal submission form, so 
 Test Smarter, Not Harder - Alternative Testing Methodologies
 
 ## Abstract
+
+### High level ideas
 - You can do better than "with this exact input I expect this exact output".
 - Alternative methodologies
   - Property based testing (PBT)
@@ -15,6 +17,13 @@ Test Smarter, Not Harder - Alternative Testing Methodologies
 - Using proptest to put polsim through the wringer
 - Monarch (metamorphic testing utility I haven't written yet)
 - Something else to tie it all together
+
+### Pain point
+- You've written a test, but aren't sure whether you've considered all the edge cases.
+- You have considered a bunch of edge cases, but to address them you've had to either write one big test or duplicate your test code for each case.
+
+### Solution
+Use a testing methodology that's a force multiplier.
 
 ## Notes for reviewers (additional info about what you might cover)
 
