@@ -28,6 +28,8 @@ Test Smarter, Not Harder - Alternative Testing Methodologies
 - Metamorphic testing lets you explore your code without needing to find general properties.
 
 ### Supporting points
+- Researchers (see [this paper (PDF)](http://www.lsi.us.es/~segura/files/papers/segura17-tse.pdf)) used metamorphic testing to find 3 bugs in the Spotify API, and 8 bugs in the YouTube API.
+- I've written dozens of PBTs to verify the behavior of various scientific tools I've written.
 
 ### Personal/funny stuff
 I think I want to open with something like this:
