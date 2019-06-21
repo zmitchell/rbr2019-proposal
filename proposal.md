@@ -37,7 +37,17 @@ I think I want to open with something like this:
 
 From there I would say something like "all of this could have been prevented if `_____`".
 
+### Draft
+You've just written some tests. You think you've done a good job handling anything a user could throw at you. Your hubris will be your downfall. The Eldritch horrors of a mangled Unicode string are wreaking havoc on your `_____` as a Service app, and Amazon has just informed customers that the us-east-1 datacenter has been swallowed by a portal to the abyssal plane.
+
+Scarred by this experience, you set out to hone your testing skills. You hear whispers that academics have used metamorphic testing to find bugs in the Spotify and YouTube APIs. You wonder whether this is a power than can be learned. 
+
+`Still need to include something about the metamorphic testing utility I'm writing.`
+
+`Still need to include something about property based testing and how I've used it.`
+
 ## Notes for reviewers (additional info about what you might cover)
+I haven't actually written the metamorphic testing utility mentioned in the abstract, but it's very simple and won't take much time at all (a few days).
 
 ## Who's your ideal audience?
 Everyone! You all write tests, right? RIGHT? You're also the ideal attendee if you're exceedingly lazy.
