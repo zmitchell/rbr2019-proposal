@@ -27,6 +27,14 @@ Test Smarter, Not Harder - Alternative Testing Methodologies
 - A property test will randomly generate inputs to explore your code in ways you wouldn't have thought to.
 - Metamorphic testing lets you explore your code without needing to find general properties.
 
+### Supporting points
+
+### Personal/funny stuff
+I think I want to open with something like this:
+> You've just written some tests. You think you've done a good job handling anything a user could throw at you. Sweet summer child, your hubris has gotten the better of you. The Eldritch horrors of a mangled Unicode string are wreaking havoc on your `_____` as a Service app, and Amazon has just informed customers that the us-east-1 datacenter has been swallowed by a portal to the abyssal plane.
+
+From there I would say something like "all of this could have been prevented if `_____`".
+
 ## Notes for reviewers (additional info about what you might cover)
 
 ## Who's your ideal audience?
