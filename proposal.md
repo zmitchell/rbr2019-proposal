@@ -16,9 +16,8 @@ This doesn't have to be you. It's hard to beat the simplicity of a basic unit te
 I've written the first metamorphic testing framework for Rust, called Monarch (https://github.com/zmitchell/monarch). It's early days for Monarch, but I plan to use it to find bugs in public APIs so that I can show some real-world examples in the talk. I'll also show examples of how I used PBT (the proptest crate) to verify the correctness of a simulation tool I wrote. I'm aware of another testing technique called mutation testing, but the two existing crates are not actively maintained, writing a new crate would be an enormous undertaking, and I don't think I could do all three techniques justice in the time provided.
 
 ## Who's your ideal audience?
-Everyone! You all write tests, right? RIGHT? You're also the ideal attendee if you're exceedingly lazy.
-Why write multiple tests for different inputs to the same function, or even choose the inputs in the first place?
-Let a computer do that for you!
+I hesitate to say "everyone", but this topic should have very broad appeal. Tests are an important part of software development, regardless of industry or skill level. On the Rust homepage, the site describes Rust as "A language empowering everyone
+to build reliable and efficient software." These testing techniques help you write more reliable software via better test coverage. Needing to write fewer tests makes YOU more efficient.
 
 ## Why are you excited to talk about this?
 The confidence that my code does what I think it does is intoxicating. It's a breath of fresh air.
@@ -28,7 +27,7 @@ It's plugging in a USB cable correctly on the first try. What if I told you that
 
 ## What is your previous speaking experience?
 I've given two talks at my local Rust meetup (Indy.rs), and a lightning talk at PyOhio.
-The first talk was about cache-friendly Rust, and was essentially a summary of a conference talk I had watched on YouTube. If my memory serves this was the first actual talk at the meetup. Then came the lightning talk at PyOhio, which included an ASCII-art Clippy for good measure. The second talk at Indy.rs was a small case study of scientific computing in Rust in which I discussed my experience writing a CLI application to do some physics simulations for my PhD.
+The first talk was about cache-friendly Rust, and was essentially a summary of a conference talk I watched on YouTube. If my memory serves this was the first actual talk at the meetup. Then came the lightning talk at PyOhio, which included an ASCII-art Clippy for good measure. The second talk at Indy.rs was a small case study of scientific computing in Rust in which I discussed my experience writing a CLI application to do some physics simulations for my PhD.
 
 ## Have you presented on this topic at other events? If so, where and when?
 Not this topic specifically. There was a slide or two related to property based testing in one of the talks I gave at my local meetup, but not an entire talk dedicated to this subject.
