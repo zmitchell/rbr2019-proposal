@@ -21,8 +21,7 @@ I hesitate to say "everyone", but this topic should have very broad appeal. Test
 to build reliable and efficient software." Better test coverage makes your software more reliable, and writing fewer tests makes YOU more efficient. Less experienced programmers will appreciate that these techniques can reveal unexpected edge cases and learn to handle them accordingly, while more experienced developers with a "code is a liabilty" mindset will appreciate that these techniques allow for a smaller test suite.
 
 ## Why are you excited to talk about this?
-The confidence that my code does what I think it does is intoxicating. It's a breath of fresh air.
-It's plugging in a USB cable correctly on the first try. What if I told you that you could get that confidence and use your time more efficiently? Wouldn't you be excited? There's your answer! I'm excited to talk about this because I just want to help you out!
+One of my favorite aspects of Rust is the power it gives me to write rock-solid software. Knowing that my code does what I think it does is a breath of fresh air. It's plugging in a USB cable correctly on the first try. A comprehensive test suite is another piece of that rock-solid puzzle, but writing good unit tests requires that I know the multitude of ways that something could go wrong. Not only will these techniques help me catch these bugs, but they will teach me what to look out for in the future. I'm excited to talk about this because I'm a software nerd, I love teaching people about software, and I want people to know that there are very powerful tools at their disposal that they may not be aware of.
 
 # Balancing Information
 
