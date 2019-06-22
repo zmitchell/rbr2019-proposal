@@ -26,8 +26,8 @@ One of my favorite aspects of Rust is the power it gives me to write rock-solid 
 # Balancing Information
 
 ## What is your previous speaking experience?
-I've given two talks at my local Rust meetup (Indy.rs), and a lightning talk at PyOhio.
-The first talk was about cache-friendly Rust, and was essentially a summary of a conference talk I watched on YouTube. If my memory serves this was the first actual talk at the meetup. Then came the lightning talk at PyOhio, which included an ASCII-art Clippy for good measure. The second talk at Indy.rs was a small case study of scientific computing in Rust in which I discussed my experience writing a CLI application to do some physics simulations for my PhD.
+I've given two 30-minute talks at my local Rust meetup, and a lightning talk at PyOhio.
+The first Rust talk was about writing Rust to efficiently use CPU caches. This talk was essentially a summary of a conference talk I watched on YouTube, but I found it interesting and our meetup needed a speaker. My next talk was the PyOhio lightning talk, and was about abusing type annotations to shoehorn Rust-like macros into Python. This talk was really just for fun, and included an ASCII-art Clippy for good measure. My most recent talk was my second Rust talk, and was a case study of scientific computing in Rust. In that talk I discussed my experience writing a command line program for doing a certain type of physics simulation.
 
 ## Have you presented on this topic at other events? If so, where and when?
 Not this topic specifically. There was a slide or two related to property based testing in one of the talks I gave at my local meetup, but not an entire talk dedicated to this subject.
