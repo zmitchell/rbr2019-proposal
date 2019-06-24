@@ -6,8 +6,7 @@ The following sections are taken straight from the proposal submission form, so 
 - **Please help us avoid unconscious/unintentional bias by not including personally identifying information in this section, including gendered pronouns, websites, or company names.**
 
 ## Title
-Test Smarter, Not Harder - Alternative Testing Methodologies
-
+Test Smarter, Not Harder - Metamorphic and Property-Based Testing
 ## Abstract
 You've just written some tests. You think you've done a good job handling anything a user could throw at you, but your hubris will be your downfall. The Eldritch horrors of a mangled Unicode string have corrupted your Doggie Daycare Locator app, and now Amazon is informing customers that the us-east-1 datacenter has been swallowed by a portal to the abyssal plain.
 
