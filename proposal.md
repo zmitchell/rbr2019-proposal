@@ -30,7 +30,7 @@ I've given two 30-minute talks at my local Rust meetup, and a lightning talk at 
 The first Rust talk was about writing Rust to efficiently use CPU caches. This talk was essentially a summary of a conference talk I watched on YouTube, but I found it interesting and our meetup needed a speaker. My next talk was the PyOhio lightning talk, and was about abusing type annotations to shoehorn Rust-like macros into Python. This talk was really just for fun, and included an ASCII-art Clippy for good measure. My most recent talk was my second Rust talk, and was a case study of scientific computing in Rust. In that talk I discussed my experience writing a command line program for doing a certain type of physics simulation.
 
 ## Have you presented on this topic at other events? If so, where and when?
-I haven't spoken solely on this topic before, but I did briefly discuss property based testing in my second Rust talk since I used property based testing to validate user input and ensure that simulations were physically correct.
+I haven't spoken solely on this topic before, but I did briefly discuss property-based testing in my second Rust talk since I used property-based testing to validate user input and ensure that simulations were physically correct.
 
 ## Are you from the Rust Belt?
 Not originally, but I've been at Purdue for graduate school for several years (please don't make me count).
